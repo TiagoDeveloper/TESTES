@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<agenda>
+	<contato>
+		<nome>tiago pereira</nome>
+		<endereco>rua irma maria </endereco>
+		<email>tiago@gmail.com</email>
+	</contato>
+	<contato>
+		<nome>Michelle Alessanda Fátima dos santos silva</nome>
+		<endereco>rua irma maria </endereco>
+		<email>michelleaffs@gmail.com</email>
+	</contato>
+	<contato>
+		<nome>tania maria pereira</nome>
+		<endereco>rua irma maria </endereco>
+		<email>tania@gmail.com</email>
+	</contato>
+	<contato>
+		<nome>claudia</nome>
+		<endereco>jacarei </endereco>
+		<email>sogra@gmail.com</email>
+	</contato>
+	<contato>
+		<nome>Airton sogro</nome>
+		<endereco>jacarei</endereco>
+		<email>trabalhoNoTiEMinhaSenhaEONomeDaMinhaMulher@gmail.com</email>
+	</contato>
+	<contato>
+		<nome>José claudio Moreira</nome>
+		<endereco>rua irma maria </endereco>
+		<email>zezeRelojoeiro@gmail.com</email>
+	</contato>
+</agenda>
